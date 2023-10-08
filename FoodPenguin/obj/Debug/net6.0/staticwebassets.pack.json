@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FoodPenguin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FoodPenguin.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_0_Cancel.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_0_Cancel.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_1_wait.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_1_wait.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_1wo.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_1wo.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_2.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_2.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_3-1.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_3-1.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_3.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_3.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_3fwp.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_3fwp.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\Progress_Step_4.css",
+      "PackagePath": "staticwebassets\\css\\Progress_Step_4.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\deposit.css",
+      "PackagePath": "staticwebassets\\css\\deposit.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\depositDetail.css",
+      "PackagePath": "staticwebassets\\css\\depositDetail.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\editprofile.css",
+      "PackagePath": "staticwebassets\\css\\editprofile.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\google_font.css",
+      "PackagePath": "staticwebassets\\css\\google_font.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\history.css",
+      "PackagePath": "staticwebassets\\css\\history.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\order.css",
+      "PackagePath": "staticwebassets\\css\\order.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\orderDetail.css",
+      "PackagePath": "staticwebassets\\css\\orderDetail.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\popup.css",
+      "PackagePath": "staticwebassets\\css\\popup.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\starter1.css",
+      "PackagePath": "staticwebassets\\css\\starter1.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\css\\step_2_waiting_buying.css",
+      "PackagePath": "staticwebassets\\css\\step_2_waiting_buying.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Year3_Term1\\Commu\\FoodPenguin\\wwwroot\\site.webmanifest",
+      "PackagePath": "staticwebassets\\site.webmanifest"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.FoodPenguin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.FoodPenguin.props",
+      "PackagePath": "build\\FoodPenguin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.FoodPenguin.props",
+      "PackagePath": "buildMultiTargeting\\FoodPenguin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.FoodPenguin.props",
+      "PackagePath": "buildTransitive\\FoodPenguin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
